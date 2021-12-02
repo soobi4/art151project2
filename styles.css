@@ -1,0 +1,37 @@
+body{
+    background-image: url("media/landoflustback.jpg");
+    color: white;
+    text-align: center;
+    font-family: verdana;
+}
+
+button{
+    color: white;
+    background-color: green;
+    font-family: lucida;
+}
+
+a{
+    color: brown;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+a:hover{
+    color: hotpink;
+}
+
+p{
+    color: turquoise;
+    text-align: center;
+}
+
+img{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+}
